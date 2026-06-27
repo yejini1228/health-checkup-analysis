@@ -62,3 +62,4 @@ health-checkup-analysis/
 ## 작성자
 
 Kyeong Taek Oh, Ph.D. — Department of Biomedical Engineering, Yonsei University College of Medicine
+Joy Rogers, Ph. D. - 
